@@ -1,0 +1,27 @@
+# Day 2 – Conditional Logic (if/else, comparison operators)
+
+Today I practiced how to use conditional statements in Python to make decisions based on user input.
+
+## ✅ Concepts Covered:
+
+- `if`, `elif`, and `else` statements
+- Comparison operators: `==`, `!=`, `<`, `<=`, `>`, `>=`
+- Logical operators: `and`, `or`, `not`
+- Chained comparisons: `13 <= age < 18`
+- Clean handling of user input using `.lower()`
+
+---
+
+## 💻 Mini Project: Movie Ticket Recommender
+
+The program:
+
+- Asks the user for their age
+- Recommends types of movies based on age group:
+  - Under 13 → "You can watch cartoon movies"
+  - 13–17 → "You can watch anime and drama"
+  - 18+ → "You can watch any movie"
+- Asks if the user is a student
+- If yes, shows: "You get a student discount!"
+
+---
