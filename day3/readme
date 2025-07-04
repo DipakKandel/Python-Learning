@@ -1,0 +1,55 @@
+# Day 3 – Loops, Lists, and Repetition
+
+Today I practiced how to work with loops, lists, and user input in Python. These are essential building blocks for automating tasks, collecting data, and creating flexible programs.
+
+## 🧠 Concepts Covered
+
+- `for` and `while` loops
+- List creation and manipulation
+- The `enumerate()` function for indexed loops
+- Using `reversed()` for clean backward iteration
+- Built-in functions like `sum()`, `max()`, and `min()`
+- Basic data analysis with user inputs
+
+---
+
+## 🔁 What This Script Does
+
+### 1. To-Do List with `append()` and `enumerate()`
+
+- Creates a basic to-do list with a single item
+- Uses `enumerate()` to print list items with their index
+
+### 2. Loop Through a String
+
+- Demonstrates how `for` can iterate through each letter of a word
+
+### 3. Favorite Fruits Collector
+
+- Asks the user to enter their favorite fruits (until they type `done`)
+- Stores all fruits in a list
+- Prints the fruits in reverse order
+- Also prints the fruits with index using `enumerate()`
+
+### 4. Number Analyzer
+
+- Asks the user to enter 5 numbers one at a time
+- Stores the numbers in a list
+- Prints:
+  - Each number entered
+  - The average of the numbers
+  - The highest number
+  - The lowest number
+
+---
+
+## 🔍 Why This Matters
+
+These skills are foundational for real-world apps like:
+
+- Shopping carts
+- Data input forms
+- Report generators
+- Chatbots and AI prompt loops
+
+I now have more confidence in writing loops efficiently, choosing the right loop type, and using list-based logic in actual applications.
