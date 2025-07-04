@@ -1,0 +1,43 @@
+# Day 4 – Python Functions & Student Grade Report
+
+On Day 4, I practiced how to define and use functions to make my code more reusable, modular, and readable. I applied these concepts in both small utility functions and a complete student grading system.
+
+## 🧠 Concepts Covered
+
+- `def` keyword for defining functions
+- Function parameters and return values
+- Difference between `return` vs `print`
+- Calling functions with user input
+- Using functions to calculate:
+  - Sum of numbers
+  - Even/odd checker
+  - Grade letter from score
+- Nested dictionaries for structured data
+- Sorting dictionary output
+- Aggregating data (average, top score)
+
+---
+
+## 📋 What This Script Does
+
+### 1. `greet(name)`
+
+- Prints a personalized greeting message.
+
+### 2. `add_numbers(a, b)`
+
+- Adds two user-input numbers and returns the result.
+
+### 3. `is_even(number)`
+
+- Checks if a number is even or odd.
+
+### 4. Student Grade Report System
+
+- Asks how many students are in the class.
+- For each student:
+  - Takes name and score (0–100)
+  - Uses `get_letter_grade(score)` to return a grade from A to F
+- Stores all student data in a dictionary.
+- Prints a full report:
+  - Each student's name, score, and grade (sorted alphabetically)
